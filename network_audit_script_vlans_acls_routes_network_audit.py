@@ -2,7 +2,7 @@
 """
 Network Audit Script – VLANs, ACLs, and Routing Tables
 
-Author: (your name)
+Author: Gabriel Hurtado
 Created: 2025-09-05
 
 Overview
